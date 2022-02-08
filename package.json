@@ -53,5 +53,8 @@
     "semi": false,
     "singleQuote": true,
     "printWidth": 120
+  },
+  "dependencies": {
+    "trezor-connect": "^8.2.6"
   }
 }
